@@ -9,5 +9,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A-K-Muslim77/-Integrate-SonarQube-with-GitHub-Actions-for-Code-Quality-Analysis.git"
+  },
+  "bugs": {
+    "url": "https://github.com/A-K-Muslim77/-Integrate-SonarQube-with-GitHub-Actions-for-Code-Quality-Analysis/issues"
+  },
+  "homepage": "https://github.com/A-K-Muslim77/-Integrate-SonarQube-with-GitHub-Actions-for-Code-Quality-Analysis#readme"
 }
